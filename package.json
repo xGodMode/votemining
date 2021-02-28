@@ -1,0 +1,25 @@
+{
+  "name": "@xgm/votemining",
+  "version": "0.0.1",
+  "description": "Layer 2 blockchain voting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgmstudio/votemining.git"
+  },
+  "keywords": [
+    "voting",
+    "blockchain",
+    "xgmstudio",
+    "mining"
+  ],
+  "author": "@codevaltweets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgmstudio/votemining/issues"
+  },
+  "homepage": "https://github.com/xgmstudio/votemining#readme"
+}
